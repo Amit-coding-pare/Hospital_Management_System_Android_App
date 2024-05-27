@@ -42,6 +42,7 @@ public class AdminUITest {
             // Assert that the Hospital_Name activity is in the foreground
             // You can perform additional assertions specific to Hospital_Name activity here
         });
+//        assertThat(true);
     }
 
     @Test
